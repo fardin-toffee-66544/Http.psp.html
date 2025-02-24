@@ -1,3 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
-https://www.googleapis.com/drive/v3/files/1g47sT7shVChVE1vLrb1vABmQeAiNA4Dr?alt=media&key=AIzaSyDJGujYqxBtgIoxzyHf3Noe-fluBcKemeM
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style></head><body><video controls="" autoplay="" name="media"><source src="https://www.googleapis.com/drive/v3/files/1g47sT7shVChVE1vLrb1vABmQeAiNA4Dr?alt=media&key=AIzaSyDJGujYqxBtgIoxzyHf3Noe-fluBcKemeM" type="video/mp4"></video></body></html>
